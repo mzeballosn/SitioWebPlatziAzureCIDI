@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\PLATZI\\ESCUELA_CLOUD_COMPUTING_CON_AZURE\\2_INTERMEDIO\\5_CURSO_WEB_APPS_LOGIC_APPS_EN_AZUFRE\\development\\SitioWebPlatziAzureCIDI\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectUniqueName": "I:\\PLATZI\\ESCUELA_CLOUD_COMPUTING_CON_AZURE\\2_INTERMEDIO\\5_CURSO_WEB_APPS_LOGIC_APPS_EN_AZUFRE\\development\\SitioWebPlatziAzureCIDI\\PlatziWebSite.csproj",
       "projectName": "PlatziWebSite",
-      "projectPath": "I:\\PLATZI\\ESCUELA_CLOUD_COMPUTING_CON_AZURE\\2_INTERMEDIO\\5_CURSO_WEB_APPS_LOGIC_APPS_EN_AZUFRE\\development\\SitioWebPlatziAzureCIDI\\PlatziWebSite\\PlatziWebSite.csproj",
+      "projectPath": "I:\\PLATZI\\ESCUELA_CLOUD_COMPUTING_CON_AZURE\\2_INTERMEDIO\\5_CURSO_WEB_APPS_LOGIC_APPS_EN_AZUFRE\\development\\SitioWebPlatziAzureCIDI\\PlatziWebSite.csproj",
       "packagesPath": "C:\\Users\\mzeballos\\.nuget\\packages\\",
-      "outputPath": "I:\\PLATZI\\ESCUELA_CLOUD_COMPUTING_CON_AZURE\\2_INTERMEDIO\\5_CURSO_WEB_APPS_LOGIC_APPS_EN_AZUFRE\\development\\SitioWebPlatziAzureCIDI\\PlatziWebSite\\obj\\",
+      "outputPath": "I:\\PLATZI\\ESCUELA_CLOUD_COMPUTING_CON_AZURE\\2_INTERMEDIO\\5_CURSO_WEB_APPS_LOGIC_APPS_EN_AZUFRE\\development\\SitioWebPlatziAzureCIDI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mzeballos\\AppData\\Roaming\\NuGet\\NuGet.Config"
